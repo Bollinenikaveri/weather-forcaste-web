@@ -1,6 +1,6 @@
-# Weather Forecasting Web App
+# Weather Forecasting Web 
 
-This is a weather forecasting web app that provides real-time weather information for a given location. The app is built using HTML, CSS, Tailwind, and JavaScript, and it utilizes several APIs to fetch and display the weather data.
+This is a weather forecasting web application that provides real-time weather information for a given location. The app is built using HTML, CSS, Tailwind, and JavaScript, and it utilizes several APIs to fetch and display the weather data.
 
 ## Features
 
